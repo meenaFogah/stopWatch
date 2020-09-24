@@ -1,0 +1,133 @@
+/*.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%*/;/*
+}*/
+
+.navbar{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+/*img{
+			display: block;
+			margin: 0 auto 0 auto;
+		}*/
+		
+li {
+  display: inline;
+}
+nav {
+	position: absolute;
+	top: 5%;
+	left: 35%;
+	transform: translate(-50%,-50%);
+}
+a{
+	color: #00b33c;
+	text-align: center;
+	text-decoration: none;
+	width: 100px;
+	padding: 6em ;
+	display: inline-block;
+}
+#p2 {
+  
+  /*margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 20%;
+  margin-right: 20%;*/
+  text-align: center;
+  width: 60%;
+  margin: auto;
+
+}
+#p1 {
+  color: #00b33c;
+  text-indent: 30px;
+  text-transform: uppercase;
+  text-align: center;
+
+}
+.cards{
+	width: 65%; 
+	margin: auto;
+	display: flex;
+    margin-top: 40px;
+
+}
+.card{
+	width:33%;
+    border: 1px solid ;
+    text-align: center;
+}
+.mr-1{
+	margin: 0 1%;
+}
+.donat{
+	display: inline-block;
+	width: 300px;
+	height: 40px;
+    background-color: #00b33c;
+    /*right: 0;
+  /* left: 0;*/
+
+    /*position: relative;
+	margin-right: 0;*/
+}
+.buttonDonate{
+	text-align: right;
+}
+#Latest{
+	text-align: center;
+}
+#p{
+	text-align: right;
+	margin-right: 300px;
+}
+#c{
+	text-align: center;
+}
+#a{
+	text-align: center;
+}
+#b{
+	color: #00b33c;
+  text-indent: 30px;
+  text-transform: uppercase;
+  text-align: center;
+}
+#m{
+	color: #00b33c;
+  text-indent: 30px;
+  text-transform: uppercase;
+  text-align: center;
+}
+#B{
+	color: #00b33c;
+  text-indent: 30px;
+  text-transform: uppercase;
+  text-align: center;
+
+}
+#e{
+	color: #00b33c;
+  text-indent: 30px;
+  text-transform: uppercase;
+  text-align: center;
+}
+#f{
+	color: #00b33c;
+  text-indent: 30px;
+  text-transform: uppercase;
+  text-align: center;
+
+}
+/*button{
+	color: green;
+
+}*/
+/*body{
+	background-color: red;
+}*/
